@@ -242,3 +242,7 @@ Open the project folder in VS Code
 Link the required CSS file to your HTML file
 
 Run the HTML file in browser
+
+👩‍💻 Author
+
+Nithya R
